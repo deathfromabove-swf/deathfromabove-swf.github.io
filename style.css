@@ -39,10 +39,9 @@ body {
 .ruffle {
 	width: 90px;
 	height: auto;
-	margin: 10px;
 }
 .ruffle:hover {
-	filter: saturate(8);
+	filter: saturate(2);
 }
 #footer {
 	width: 150px;
