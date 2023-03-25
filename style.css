@@ -55,7 +55,7 @@ body {
 	margin-right: auto;
 }
 h1 {
-	font: bold 30pt arial, Helvetica, sans-serif;
+	font: bold 20pt arial, Helvetica, sans-serif;
 	color: white;
 }
 
@@ -63,11 +63,10 @@ img {
 	border-style: none;
 
 }
-	a:link { text-decoration: none; color: #FFFFFF; font-weight: bold; }
-	a:visited { text-decoration: none; color: #FFFFFF; font-weight: bold; }
-	a:hover { text-decoration: none; color: #67808D;
-		font-weight:bold;}
-	a:active { text-decoration: none; color: #FFFFFF; font-weight: bold; }
+	a:link { text-decoration: none; color: #FFAD33; font-weight: bold; }
+	a:visited { text-decoration: none; color: #FFAD33; font-weight: bold; }
+	a:hover { text-decoration: none; color: #966214; font-weight:bold;}
+	a:active { text-decoration: none; color: #966214; font-weight: bold; }
 }
 ::-webkit-scrollbar { 
     display: none; 
