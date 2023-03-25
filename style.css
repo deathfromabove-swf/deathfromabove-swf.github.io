@@ -47,11 +47,14 @@ body {
 	margin-right: auto;
 	text-align: center;
 }
+
+#bottompart {
+	width: 540px;
+	
+}
 h1 {
 	font: bold 30pt arial, Helvetica, sans-serif;
-	background: linear-gradient(0deg, rgba(215,227,228,1) 0%, rgba(163,206,210,1) 100%);
-	-webkit-background-clip: text;
-	-webkit-text-fill-color: transparent;
+	color: white;
 }
 
 img {
