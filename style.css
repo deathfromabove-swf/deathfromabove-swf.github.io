@@ -15,10 +15,10 @@ body {
 }
 #blogpart {
 	margin: 10px 0px 10px 0px;
-	background: url(../skeleton/noise.png), #2D842F;
+	background: url(../skeleton/noise.png), #82515E;
 	height: auto;
-	border: 1px solid #2ED13A;
-	box-shadow: 0px 0px 0px 1px #174618;
+	border: 1px solid #AF6182;
+	box-shadow: 0px 0px 0px 1px #82515E;
 	border-radius: 13px;
 }
 #blogtext {
@@ -38,6 +38,11 @@ body {
 	margin-right: auto;
 	width: 300px;
 	height: 400px;
+}
+#footer {
+	width: 150px;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 h1 {
