@@ -68,10 +68,10 @@ img {
 	border-style: none;
 
 }
-	a:link { text-decoration: none; color: #FFFFFF; font-weight: bold; }
-	a:visited { text-decoration: none; color: #FFFFFF; font-weight: bold; }
-	a:hover { text-decoration: none; color: #FFFFFF; font-weight:bold;}
-	a:active { text-decoration: none; color: #FFFFFF; font-weight: bold; }
+	a:link { text-decoration: none; color: #FFAD33; font-weight: bold; }
+	a:visited { text-decoration: none; color: #FFAD33; font-weight: bold; }
+	a:hover { text-decoration: none; color: #E69C2E; font-weight:bold;}
+	a:active { text-decoration: none; color: ##E69C2E; font-weight: bold; }
 }
 ::-webkit-scrollbar { 
     display: none; 
