@@ -39,6 +39,7 @@ body {
 .ruffle {
 	width: 100px;
 	height: auto;
+	margin: 10px;
 }
 #footer {
 	width: 150px;
