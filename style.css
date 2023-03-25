@@ -15,10 +15,10 @@ body {
 }
 #blogpart {
 	margin: 10px 0px 10px 0px;
-	background: url(../skeleton/noise.png), #2B4548;
+	background: url(../skeleton/noise.png), #2D842F;
 	height: auto;
-	border: 1px solid #88C9D0;
-	box-shadow: 0px 0px 0px 1px #61093C;
+	border: 1px solid #2ED13A;
+	box-shadow: 0px 0px 0px 1px #174618;
 	border-radius: 13px;
 }
 #blogtext {
@@ -33,7 +33,12 @@ body {
 	color: #FFFFFF;
 	font: 15pt arial, Helvetica, sans-serif;
 }
-
+#game {
+	margin-left: auto;
+	margin-right: auto;
+	width: 300px;
+	height: 400px;
+}
 h1 {
 	font: bold 30pt arial, Helvetica, sans-serif;
 	background: linear-gradient(0deg, rgba(215,227,228,1) 0%, rgba(163,206,210,1) 100%);
