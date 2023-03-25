@@ -68,10 +68,10 @@ img {
 	border-style: none;
 
 }
-	a:link { text-decoration: underline; color: #FFFFFF; font-weight: bold; }
-	a:visited { text-decoration: underline; color: #FFFFFF; font-weight: bold; }
-	a:hover { text-decoration: underline; color: #F3E9ED; font-weight:bold;}
-	a:active { text-decoration: underline; color: #F3E9ED; font-weight: bold; }
+	a:link { text-decoration: none; color: #FFFFFF; font-weight: bold; }
+	a:visited { text-decoration: none; color: #FFFFFF; font-weight: bold; }
+	a:hover { text-decoration: none; color: #FFFFFF; font-weight:bold;}
+	a:active { text-decoration: none; color: #FFFFFF; font-weight: bold; }
 }
 ::-webkit-scrollbar { 
     display: none; 
