@@ -39,9 +39,11 @@ body {
 .ruffle {
 	width: 90px;
 	height: auto;
+	position: relative;
+	bottom: -2px;
 }
 .ruffle:hover {
-	filter: saturate(2);
+	filter: brightness(150%);
 }
 #footer {
 	width: 150px;
