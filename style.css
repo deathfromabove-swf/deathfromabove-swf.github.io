@@ -1,9 +1,5 @@
 body {
 	background-color: black;
-	background-image: url(../skeleton/footer.png), url(../skeleton/noise.jpg);
-	background-size: 200px 35px, auto;
-	background-repeat: repeat-y, repeat;
-	background-position: right 7px top 66px, 0px 0px;
 	margin: 0 0 0 0;
 	height: 100%;
 	min-width: 800px;
