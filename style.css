@@ -37,13 +37,13 @@ body {
 	height: 400px;
 }
 .ruffle {
-	width: 90px;
+	width: 86px;
 	height: auto;
 	position: relative;
 	bottom: -2px;
 }
 .ruffle:hover {
-	filter: brightness(150%);
+	filter: brightness(130%);
 }
 #footer {
 	width: 150px;
