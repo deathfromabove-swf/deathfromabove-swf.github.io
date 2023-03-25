@@ -37,10 +37,8 @@ body {
 	height: 400px;
 }
 .ruffle {
-	width: 82px;
+	width: 78px;
 	height: auto;
-	position: relative;
-	bottom: -2px;
 }
 .ruffle:hover {
 	filter: brightness(130%);
