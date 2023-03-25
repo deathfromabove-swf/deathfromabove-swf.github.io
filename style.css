@@ -11,7 +11,7 @@ body {
 }
 #blogpart {
 	margin: 10px 0px 10px 0px;
-	background: url(../skeleton/noise.png), #82515E;
+	background-color: #311E23;
 	height: auto;
 	border: 1px solid #AF6182;
 	box-shadow: 0px 0px 0px 1px #82515E;
